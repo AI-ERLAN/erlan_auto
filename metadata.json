@@ -1,0 +1,8 @@
+{
+  "name": "ERLAN AUTO - Document Services",
+  "description": "Professional car document processing and transit declaration services for international logistics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
